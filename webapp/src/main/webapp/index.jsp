@@ -15,7 +15,7 @@
  <h1>Watch the video in week21 and set up your DevOps CI/CD pipeline.
 
 
-1- Everyone is saying DevOps and talking about DevOps , what do you think is DevOps?
+<h1>1- Everyone is saying DevOps and talking about DevOps , what do you think is DevOps?</h1>
 
 
 	 It is a culture in the IT world which integrates the Development and Operation team with the goal of developing and deploying good quality applications in a fast manner and safe company time and DevOps helps you to get feedback faster. 
