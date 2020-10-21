@@ -3,4 +3,4 @@ From tomcat:8-jre8
 
 # Maintainer 
 MAINTAINER "muyalevis@gmail.com" 
-COPY ./webapp/target/webapp.war /usr/local/tomcat/webapps
+COPY ./webapp/target/holyday.war /usr/local/tomcat/webapps
